@@ -17,3 +17,5 @@ Now, go to the file resources/views/test.blade.php
 Remove the line "Your chart should appear here". And add the graph from this jsfiddle: https://jsfiddle.net/wvtrg64y/
 
 If you are able to show the same graph when you click localhost:8000, congratulations.
+
+A screenshot of the correct solution is : ![Sample solution](sample_correct_output.png)
